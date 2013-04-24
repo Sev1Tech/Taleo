@@ -1,0 +1,5 @@
+This is a simple maven project to build the Taleo web service classes.  
+
+build the TaleoAPI by changing to ./TaleoAPI and typing "mvn clean install"
+
+Include the maven dependency in your project or copy the jar files from the target directory.
